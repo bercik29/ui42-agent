@@ -1,0 +1,6 @@
+langchain-anthropic
+langgraph
+google-analytics-data
+python-dotenv
+pandas
+fpdf2
